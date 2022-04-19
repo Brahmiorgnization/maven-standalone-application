@@ -67,7 +67,8 @@
 	</issueManagement>
 
 	-->
-	<!--<build>
+	<!--
+	<build>
 	  <plugins>
 	    <plugin>
 	      <!-- Build an executable JAR -->
@@ -85,8 +86,8 @@
 	      </configuration>
 	    </plugin>
 	  </plugins>
-	</build> -->
-	
+	</build> 
+	-->
 	  <build>
     <plugins>
       <plugin>
